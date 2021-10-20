@@ -5,10 +5,10 @@
 * [Fiche TD5](TD5.pdf).
 
 #### Liens classroom :
-* Pour les étudiants du **groupe 1** : 
-* Pour les étudiants du **groupe 2** :
-* Pour les étudiants du **groupe 3** : 
-* Pour les étudiants du **groupe 4** : 
-* Pour les étudiants du **groupe 5** : 
+* Pour les étudiants du **groupe 1** : https://classroom.github.com/a/M9f2E_5W
+* Pour les étudiants du **groupe 2** : https://classroom.github.com/a/ljGrULTj
+* Pour les étudiants du **groupe 3** : https://classroom.github.com/a/g553_iE5
+* Pour les étudiants du **groupe 4** : https://classroom.github.com/a/ljK14DOo
+* Pour les étudiants du **groupe 5** : https://classroom.github.com/a/rccRtZJb
 
 
