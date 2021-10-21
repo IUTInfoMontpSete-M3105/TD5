@@ -57,6 +57,25 @@ public class Dataset {
 		//TODO
 	}
 
+/////////////////////////////////// INSTANCES
+	/////////////////////////////////// //////////////////////////////////////////////////
+	enum Instance {
+		toy("data/toy.txt", "data/toymotifs.txt", 0.5f, 5),
+		instance1("data/ecommerce.txt", "data/motifs1.txt", 0.5f, 130),
+		instance2("data/ecommerce.txt", "data/motifs2.txt", 0.5f, 130),;
 
+		final String datasetPath;
+		final String motifsPath;
+		final float seuil;
+		final int nbArticles;
+
+		Instance(String datasetPath, String motifsPath, float seuil, int nbArticles) {
+			this.datasetPath = datasetPath;
+			this.motifsPath = motifsPath;
+			this.seuil = seuil;
+			this.nbArticles = nbArticles;
+		}
+
+	}
 
 }
